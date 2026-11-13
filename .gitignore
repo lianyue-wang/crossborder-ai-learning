@@ -25,8 +25,8 @@ dist/
 build/
 *.zip
 
-# 真实经营数据：公开仓库，一律不入库
-data/
+# 真实经营数据：公开仓库，一律不入库（教程原文目录除外）
+/data/
 *.csv
 !reference/**/*.csv
 
